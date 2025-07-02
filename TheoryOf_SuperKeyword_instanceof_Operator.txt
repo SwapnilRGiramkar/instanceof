@@ -1,0 +1,16 @@
+TheoryOf_SuperKeyword_instanceof_Operator.txt
+
+*super Keyword-
+1)superkeyword is used to call the member of super class in a subclass.
+2)When the parent and child class having member of same class.
+3)super is keyword which will find the members in immidiate parent calss.
+4)super keyword is not a reference variable hence we cannot print it.
+5)but this is reference variable which holds the reference of Current Object .
+6)thats why it can be printed.
+
+*insatnceof Operator -
+1)insatnceof is keywors as well as operator.
+2)it is a binary opeartor.
+3)instanceof Operator is used to check whether the object has the member of the specified class OR
+  to determine whether it has the member of subclass even parent class.
+
