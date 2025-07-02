@@ -1,0 +1,6 @@
+*Sealed classes
+1)To achieve controlled inheritance java introduced new concept call Sealed classes.
+2)where super class is specify which and all classes are inherited.
+3)Here we can used keyword such as "sealed" and "permits".
+4)The Inheriting permitted class must be made final to restrict further inheritance.
+
